@@ -6,7 +6,7 @@ MACHINE LEARNING FOR ECONOMICS RESEARCH: WHEN WHAT AND HOW?
 https://arxiv.org/abs/2304.00086
 
 Choose Your Weapon: Survival Strategies for Depressed AI Academics  
-ttps://arxiv.org/pdf/2304.06035.pdf
+https://arxiv.org/pdf/2304.06035.pdf
 
 An Anatomy of Monopsony: Search Frictions, Amenities and Bargaining in Concentrated Markets  
 https://www.nber.org/papers/w31149
